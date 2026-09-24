@@ -1,0 +1,31 @@
+{
+  "name": "boring-junie-extension",
+  "owner": {
+    "name": "BrayanCaro"
+  },
+  "metadata": {
+    "description": "Personal/community Junie extensions marketplace",
+    "version": "1.0.0",
+    "homepage": "https://github.com/BrayanCaro/boring-junie-extension"
+  },
+  "extensions": [
+    {
+      "name": "skill-creator",
+      "source": "./extensions/skill-creator",
+      "description": "Guide for creating effective Junie agent skills. Use when creating or updating a Junie agent skill (SKILL.md folders for Junie CLI and JetBrains IDEs). Follows the open Agent Skills specification (agentskills.io).",
+      "version": "1.0.0",
+      "author": {
+        "name": "BrayanCaro"
+      },
+      "category": "tooling",
+      "homepage": "https://github.com/BrayanCaro/boring-junie-extension/tree/main/extensions/skill-creator",
+      "keywords": [
+        "skills",
+        "skill-creator",
+        "agent-skills",
+        "junie",
+        "tooling"
+      ]
+    }
+  ]
+}

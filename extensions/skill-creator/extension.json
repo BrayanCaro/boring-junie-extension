@@ -1,0 +1,4 @@
+{
+  "name": "skill-creator",
+  "description": "Guide for creating effective Junie agent skills. Use this skill when creating a new Junie agent skill or updating an existing one. Follows the open Agent Skills specification (agentskills.io)."
+}
